@@ -41,7 +41,7 @@ This is the backend for the **Refer & Earn** landing page, built using Express.j
 ## 🔥 Deployment
 
 This project is deployed on **Render**.  
-Live API URL: [Your Backend API URL Here]
+Live API URL: "https://accredian-backend-task-it93.onrender.com/api/referrals"
 
 ## 📄 Environment Variables
 
